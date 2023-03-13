@@ -1,11 +1,12 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "chatgpt",
-  "title": "chatGPT",
+  "name": "chatgpt-Raycast",
+  "title": "chatgpt-Raycast",
   "description": "This is a Raycast version of chatGPT",
   "icon": "chatGPT-icon.png",
   "author": "Meredith2000",
   "license": "MIT",
+  "categories": ["Fun", "Communication"],
   "commands": [
     {
       "name": "index",
