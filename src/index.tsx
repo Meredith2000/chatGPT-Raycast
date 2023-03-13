@@ -41,6 +41,7 @@ export default function Command() {
       toast.title = "Success to chat and copy the answer";
     }catch (e){
       // 设置toast失败
+      console.log(e);
       toast.style = Toast.Style.Failure;
       toast.title = "Fail to chat";
     }
